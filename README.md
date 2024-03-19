@@ -23,7 +23,7 @@ The web application provides a user-friendly interface where users can input a U
 
 ## Technologies Used
 - Python: Programming language used for backend development.
-- FastAPI: Web framework used for building the RESTful API.
+- FastAPI: Web framework used for building the RESTful API with the help of Visual Studio Code.
 - Uvicorn: ASGI server used to run the FastAPI application.
 - Scikit-learn: Machine learning library used for building and training phishing detection models.
 - HTML/CSS: Frontend technologies for building the user interface.
