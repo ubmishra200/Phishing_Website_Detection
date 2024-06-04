@@ -32,6 +32,7 @@ The web application provides a user-friendly interface where users can input a U
 ## Contributors
 - [Satyam Srivastava](https://github.com/sirri173)
 - [Shashank Pratap Maurya](https://github.com/Shashank-2509)
+- [Uday Bhan Mishra](https://github.com/ubmishra200)
 
 
 
